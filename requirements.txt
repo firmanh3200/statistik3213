@@ -1,0 +1,7 @@
+streamlit==1.31.0
+pandas
+plotly.express
+openpyxl
+lxml
+requests
+beautifulsoup4
